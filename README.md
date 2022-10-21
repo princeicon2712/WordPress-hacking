@@ -6,3 +6,9 @@
     /wp-admin/wp-login.php
 
 
+
+WordPress verson chack:-
+
+    commnad:
+        curl -s -X GET http://blog.inlanefreight.com | grep '<meta name="generator"'.   
+        
