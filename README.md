@@ -10,5 +10,5 @@
 ## WordPress verson chack:-
 
 
-        curl -s -X GET http://blog.inlanefreight.com | grep '<meta name="generator"'.   
+        curl -s -X GET http://blog.inlanefreight.com | grep '<meta name="generator"'   
         
